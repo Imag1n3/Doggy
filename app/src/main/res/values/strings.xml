@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Doggy</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_button">Home</string>
+    <string name="btn_spaniel">Cockerspaniel</string>
+    <string name="btn_beagle">Beagle</string>
+    <string name="btn_labrador">Labrador</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="item_labrador">Labrador</string>
+    <string name="item_cockerspaniel">Cockerspaniel</string>
+    <string name="item_beagle">Beagle</string>
+    <!--BreedActivities string values-->
+    <string name="btn_home">Home</string>
+    <string name="btn_orderBy">Order By</string>
+    <string name="txtv_filter">Most recent</string>
+    <!--ImageViewActivities string values-->
+    <string name="btnimv_back">Back</string>
+    <string name="btnimv_share">Share</string>
+    <string name="btnimv_saveToSd">Save</string>
+    <string name="btn_selectBreed">Select Dog Breed</string>
+
+</resources>
